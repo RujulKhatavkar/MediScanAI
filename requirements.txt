@@ -1,0 +1,8 @@
+flask==2.2.5
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+pandas==1.5.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+ocrmac
+Pillow==9.4.0
