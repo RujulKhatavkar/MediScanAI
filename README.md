@@ -28,6 +28,11 @@ python chatbot_ai.py
 ```
 This script loads the language model and runs a chatbot interface where users can ask questions related to medical topics.
 
+here is an example of the LLM responding to a query by a user
+
+![image](https://github.com/user-attachments/assets/10b0d9c0-972e-48e3-9a47-a3f11d0025ad)
+
+
 ### Running OCR Processing
 To process medical documents using OCR:
 ```sh
