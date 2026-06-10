@@ -20,8 +20,10 @@ This is the **v2 rebuild**: a cleaner RAG pipeline, a dedicated drug-interaction
  
 ## Demo
  
-<!-- IMAGE: replace with a screenshot of the running app showing a scanned prescription + extracted drugs -->
-![MediScanAI app demo](docs/demo.png)
+<img width="1401" height="756" alt="Screenshot 2026-06-10 at 1 39 06 PM" src="https://github.com/user-attachments/assets/0653dfd4-680d-4b95-b1a3-51d161b72475" />
+
+https://mediscanai-awawujdbrqnw6df6eajuxa.streamlit.app/
+
  
 ---
  
